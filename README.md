@@ -33,9 +33,9 @@ Hi, I'm Kasun Hewagama, a Data Warehousing & Business Intelligence Developer ðŸš
 
 
 
-![Kasun's github stats](https://github-readme-stats.vercel.app/api?username=KasunHewagama&show_icons=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Kasun's github stats](https://github-readme-stats.vercel.app/api?username=KasunHewagamaDFCC&show_icons=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KasunHewagama&layout=compact&hide_border=true&theme=light&)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KasunHewagamaDFCC&layout=compact&hide_border=true&theme=light&)
 
 
 ### Languages and Tools : <br/>  
